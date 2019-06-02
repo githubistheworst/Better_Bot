@@ -9,10 +9,10 @@ Add
 ```
 repositories {
     maven {
-        url 'https://raw.githubusercontent.com/Team4308/Better_Bot/tree/master/cf/githubistheworst/b_b/'
+        url 'https://raw.githubusercontent.com/Team4308/Better_Bot/master/'
         credentials(HttpHeaderCredentials) {
             name = "Authorization"
-            value = "$TOKEN"
+            value = "Bearer $TOKEN"
         }
         authentication {
             header(HttpHeaderAuthentication)
