@@ -1,8 +1,8 @@
-#Better_Bot (BetterBlankBot)
+# Better_Bot (BetterBlankBot)
 
 A set of utilities and classes to aid in creating FRC robot code.
 
-##How To Use
+## How To Use
 
 Add
 
