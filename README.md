@@ -21,7 +21,7 @@ repositories {
 }
 
 dependencies {
-    compile 'cf.githubistheworst.bbbTokenBot:b_b:0.1.1'
+    compile 'cf.githubistheworst.bbbTokenBot:b_b:0.1.2'
 }
 ```
 
