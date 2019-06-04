@@ -32,3 +32,7 @@ You may also replace the token with your own token, but I reconmmend you to use 
 If you don't know how to create a github repo token with access to organization repos, dm me on discord `wozeparrot#8603`.
 
 Also, if you don't know how to use this dm me as well.
+
+### Issues
+
+Just create an issue
