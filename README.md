@@ -12,14 +12,14 @@ WPILib: Manage Vendor Libraries
 
 Install New Library (Online)
 
-URL: `https://raw.githubusercontent.com/Team4308/Better_Bot/master/Better_Bot.json`
+URL: `https://raw.githubusercontent.com/githubistheworst/Better_Bot/master/Better_Bot.json`
 
 ### Old Method
 
 ```java
 repositories {
     maven {
-        url 'https://raw.githubusercontent.com/Team4308/Better_Bot/master/'
+        url 'https://raw.githubusercontent.com/githubistheworst/Better_Bot/master/'
     }
 }
 

@@ -4,9 +4,9 @@
     "version": "0.3.0",
     "uuid": "e71ad8cf-30a8-4f89-ab55-3361f864ee6f",
     "mavenUrls": [
-        "https://raw.githubusercontent.com/Team4308/Better_Bot/master/"
+        "https://raw.githubusercontent.com/githubistheworst/Better_Bot/master/"
     ],
-    "jsonUrl": "https://raw.githubusercontent.com/Team4308/Better_Bot/master/Better_Bot.json",
+    "jsonUrl": "https://raw.githubusercontent.com/githubistheworst/Better_Bot/master/Better_Bot.json",
     "javaDependencies": [
         {
             "groupId": "cf.githubistheworst.bbbTokenBot",
