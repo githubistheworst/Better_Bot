@@ -30,8 +30,6 @@ dependencies {
 
 To your repositories in your `build.gradle`.
 
-Also, if you don't know how to use this, dm me on discord `wozeparrot#8603`.
-
 ### Issues
 
 Just create an issue
